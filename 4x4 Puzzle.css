@@ -1,0 +1,34 @@
+h1 {text-align:center;
+	width:50%;
+	position:relative;
+	left:12.5%;}
+
+table { width:500px;
+			        border-collapse:collapse;
+					background-color:lightblue;}
+					table, td ,th{ border:1px solid black;
+			               padding:4px;}
+			td     {   text-align:center;
+			          color: black;
+					  background-color:white;
+					  }
+					  
+ td.block0{
+	background-color: transparent !important;
+}
+td.block0:before{content: "";}
+td.block1:before{content: "1";}
+td.block2:before{content: "2";}
+td.block3:before{content: "3";}
+td.block4:before{content: "4";}
+td.block5:before{content: "5";}
+td.block6:before{content: "6";}
+td.block7:before{content: "7";}
+td.block8:before{content: "8";}
+td.block9:before{content: "9";}
+td.block10:before{content: "10";}
+td.block11:before{content: "11";}
+td.block12:before{content: "12";}
+td.block13:before{content: "13";}
+td.block14:before{content: "14";}
+td.block15:before{content: "15";}
